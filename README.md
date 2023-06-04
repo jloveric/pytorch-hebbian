@@ -1,6 +1,5 @@
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-
+This is a modification of the original hebbian-learning pytorch, but I'm going to try and get it working in lighting etc...
+The original version can be found here https://github.com/Joxis/pytorch-hebbian
 <br />
 <p align="center">
   <a href="https://github.com/Joxis/pytorch-hebbian">
